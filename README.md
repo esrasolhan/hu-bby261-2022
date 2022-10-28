@@ -1,1 +1,3 @@
-# hu-bby261-2022
+# miniOrumcek
+Mini Örümcek
+Kullanılan modül adı: bs4
