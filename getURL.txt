@@ -1,4 +1,6 @@
 https://madran.net - R. Orçun Madran – Akademisyen | Aktivist | Triatlet
 https://hacettepe.edu.tr - Hacettepe Üniversitesi
 https://turnitin.com - Empower Students to Do Their Best, Original Work | Turnitin 
-https://www.python.org - Welcome to Python.org
+https://python.org - Welcome to Python.org
+https://github.com - GitHub: Let’s build from here · GitHub
+https://oys.bby.hacettepe.edu.tr - BBY - Öðrenme Yönetim Sistemi: Siteye giriþ yap
