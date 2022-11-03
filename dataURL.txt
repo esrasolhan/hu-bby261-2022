@@ -4,3 +4,4 @@ https://turnitin.com
 https://python.org
 https://github.com
 https://oys.bby.hacettepe.edu.tr
+https://microsoft.com

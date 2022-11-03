@@ -10,8 +10,16 @@ class DataURL:
   def dataWrite(self):
     dataOpen = open(self.dataFile, 'a')
     siteURL = input("Site adresini ön eki ile birlikte giriniz: ")
-    dataOpen.write(siteURL+"\n")
-    dataOpen.close()
+    kontrol7 = siteURL[:7]  #http
+    kontrol8 = siteURL[:8]  #https
+    http = "http://"
+    https = "https://"
+    if kontrol7 == http or kontrol8 == https:
+        dataOpen.write(siteURL + "\n")
+        dataOpen.close()
+        print("Url kaydedildi.")
+    else:
+        print("Lütfen url'nin ön ekini (/'https://' veya 'http://') giriniz.")
 
   def dataRead(self):
       dataOpen = open(self.dataFile, 'r')
