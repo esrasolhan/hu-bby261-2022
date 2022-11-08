@@ -27,5 +27,7 @@ while True:
             useGetURL.getWeb()
         elif menuSecim == 4:
             useGetURL.getList()
+        elif menuSecim>=4:
+            print("0 ile 4 arasında bir seçim yapınız.")
     else:
         print("Lütfen geçerli bir menü numarası giriniz.")
